@@ -1,21 +1,21 @@
 {
-  "name": "simple-parcel-project-template",
+  "name": "test-spdrck-wst",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://yuliialiubenka.github.io/simple-parcel-project-template",
+  "homepage": "https://yuliialiubenka.github.io/test-spdrck-wst",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /simple-parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /test-spdrck-wst/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuliialiubenka/simple-parcel-project-template.git"
+    "url": "git+https://github.com/yuliialiubenka/test-spdrck-wst.git"
   },
   "keywords": [],
   "author": "Yuliia Koliesnik <yuliialiubenka@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yuliialiubenka/simple-parcel-project-template/issues"
+    "url": "https://github.com/yuliialiubenka/test-spdrck-wst/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
